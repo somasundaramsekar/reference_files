@@ -1,4 +1,3 @@
-package de.smava.bards.depersonalizer.core;
 
 import java.io.File;
 import java.io.FileNotFoundException;
